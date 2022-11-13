@@ -1,6 +1,6 @@
 # Technote | A sticky note app for Linux   
  
-# ![technote-gui-11-13-22](https://user-images.githubusercontent.com/22214754/201529207-9d1a04f5-c2de-408d-9af2-dd12a9fb27bc.png)    
+# ![technote-gui-11-13-22](https://user-images.githubusercontent.com/22214754/201534010-b5b67c3d-030e-4d17-af52-2c37ea577c00.gif)      
 
 # Developed with:      
 
