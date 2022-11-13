@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/technote-gui-background.png</file>
+    </qresource>
+</RCC>
